@@ -39,10 +39,7 @@ focus:
 ---
 
 ## 🏆 Certifications
-<style>
-  table th:first-of-type { width: 20%; }
-  table th:last-of-type { width: 80%; }
-</style>
+
 | Badge | Certification |
 |---|-----------------|
 | ☸️  **CKS** | [Certified Kubernetes Security Specialist](https://www.credly.com/badges/2f3b6bdd-f063-4701-b0be-fa27729248ce) |
@@ -73,6 +70,7 @@ focus:
 | Repo | Description |
 |------|----------------|
 | [**GitOps Lab with K Zero Ess**](https://github.com/RaymondHtue/gitops-with-k-zero-ess) | End-to-end GitOps workflow on Kubernetes using ArgoCD and k-zero-ess for application delivery |
+| [**Automated GKE Deployment**](https://gitlab.com/maunghtoodevops/iac-gke.git) | IaC implementation for GKE provisioning with reusable modules(vpc/gke/certificate-manager), automated deployment using GitLab CICD and security best practices | 
 
 ***
 
