@@ -70,7 +70,8 @@ focus:
 | Repo | Description |
 |------|----------------|
 | [**GitOps Lab with K Zero Ess**](https://github.com/RaymondHtue/gitops-with-k-zero-ess) | End-to-end GitOps workflow on Kubernetes using ArgoCD and k-zero-ess for application delivery |
-| [**Automated GKE Deployment**](https://gitlab.com/maunghtoodevops/iac-gke.git) | IaC implementation for GKE provisioning with reusable modules(vpc/gke/certificate-manager), automated deployment using GitLab CICD and security best practices | 
+| [**Automated GKE Deployment**](https://gitlab.com/maunghtoodevops/iac-gke.git) | IaC implementation for GKE provisioning with reusable modules(vpc/gke/certificate-manager), automated deployment using GitLab CICD and security best practices |
+| [**Ansible Roles Lab**](https://github.com/RaymondHtue/ansible-roles.git) | IaC implementation for docker, LEMP stack, nodeExporter configuration, installation and container deployment using Ansible roles | 
 
 ***
 
